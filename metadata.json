@@ -1,0 +1,11 @@
+{
+  "name": "StylistePro",
+  "description": "Une application de gestion complète pour atelier de couture : registre clients, suivi de commandes, facturation et gestion financière. Intègre Supabase pour les données et Stylé IA pour l'assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
